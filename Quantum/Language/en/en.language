@@ -1,0 +1,37 @@
+{
+    "en":
+    {
+        "QT_EXPANSION_NAME": "Quantum",
+        "QT_EXPANSION_DESC": "Adds content from 'Quantum' to the game.",
+
+        "QT_EQUIP_DRONESCRAP_NAME": "Build-It Kit",
+        "QT_EQUIP_DRONESCRAP_PICKUP": "Convert items into parts to build new drone allies.",
+        "QT_EQUIP_DRONESCRAP_DESC": "Aim at a common, <style=cIsHealing>uncommon</style> or <style=cDeath>legendary</style> item and activate to convert it into <style=cIsUtility>drone parts</style>. When you collect enough drone parts of a certain tier [{0}/<style=cIsHealing>{1}</style>/<style=cDeath>{2}</style>], an <style=cIsUtility>allied drone</style> of that tier will be added to your team.",
+        "QT_EQUIP_DRONESCRAP_LORE": "<style=cMono>STANDARD BUILD-IT KIT</style>\n\n<style=cMono>Contains:</style>\n- TODO write later\n\n‘Ever wanted to build something that could fly? A robot that could clean your house for you? Or a drone companion that you can speak to? The BUILD-IT KIT product line xui as903423;esfoklff;’’’’’’32r4r233548jasiojsdklas;k;232lll;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;sadl;d;sald;asljmk2l4n1’\n\n‘Ignore pervious description, keyboard broke’\n\n’What do you mean it’s already approved?’",
+
+        "QT_ITEM_DRONESCRAPCOMMON_NAME": "Drone Parts, White",
+        "QT_ITEM_DRONESCRAPCOMMON_PICKUP": "Does nothing. Collect {0} to create a common drone.",
+        "QT_ITEM_DRONESCRAPCOMMON_DESC": "Does nothing. Collect {0} to create a common drone.",
+        "QT_ITEM_DRONESCRAPCOMMON_LORE": "<style=cMono>‘SUPER’ BUILD-IT KIT (~67 pcs)</style>\n\n<style=cMono>Contains:</style>\n- HydroLex AA Lithium Battery x4\n- Micro-Levitator Unit x8\n- Reaction Control Unit x4\n- Standard Adhesive x2\n- ARND Rider 080-mi CPU x1\n- Plastic Hull, various x5\n- Propellant Chamber x1\n- Cable Attachment, various x20\n- Steel bolt x20\n- Allen Key x1\n- Standard ‘Build-It Kit’ Parts Set x1\n\n‘Start your engineering journey with the SUPER Build-It Kit! BCE Entertainment is not liable for damages sustained or caused by the use of this product.’",
+
+        "QT_ITEM_DRONESCRAPUNCOMMON_NAME": "Drone Parts, Green",
+        "QT_ITEM_DRONESCRAPUNCOMMON_PICKUP": "Does nothing. Collect {0} to create an <style=cIsHealing>uncommon</style> drone.",
+        "QT_ITEM_DRONESCRAPUNCOMMON_DESC": "Does nothing. Collect {0} to create an <style=cIsHealing>uncommon</style> drone.",
+        "QT_ITEM_DRONESCRAPUNCOMMON_LORE": "<style=cMono>‘EPIC’ BUILD-IT KIT (~56 pcs)</style>\n\n<style=cMono>Contains:</style>\n- HydroLex ‘Funsize’ Fusion Battery x1\n- Variable-Pitch Magnetic Levitator Unit x4\n- Industrial-Grade Adhesive x2\n- ARND Rider 140-mi CPU x1\n- Carbon Fiber Hull, various x5\n- Propellant Chamber x1\n- Cable Attachment, various x20\n- Steel bolt x20\n- Allen Key x2\n- Standard ‘Build-It Kit’ Parts Set x1\n\n‘DESIGN NOT APPROVED – RETURN TO SENDER Take your engineering to the next level with the EPIC Build-It Kit! BCE Entertainment is not liable for damages sustained or caused by the use of this product.’",
+
+        "QT_ITEM_DRONESCRAPLEGENDARY_NAME": "Drone Parts, Red",
+        "QT_ITEM_DRONESCRAPLEGENDARY_PICKUP": "Does nothing. Collect {0} to create a <style=cDeath>legendary</style> drone.",
+        "QT_ITEM_DRONESCRAPLEGENDARY_DESC": "Does nothing. Collect {0} to create a <style=cDeath>legendary</style> drone.",
+        "QT_ITEM_DRONESCRAPLEGENDARY_LORE": "<style=cMono>‘LEGENDARY’ BUILD-IT KIT (~57 pcs)</style>\n\n<style=cMono>Contains:</style>\n- Antimatter-Catalyzed Lightweight Fission Core x1\n- Low-Fourier Microstabilizer x6\n- Disentanglement-Effect Microtubule Gel Applicant x1\n- Printel 7xA Quantum Processing Unit x1\n- Tungsten Reinforced Supersteel Hull, various x5\n- Variable-gauge Matter Dispersal Unit x1\n- Fibre-optic Cable Attachment, various x20\n- Steel Bolt x20\n- ‘ULTRA’ Allen Key x1\n- Standard ‘Build-It Kit’ Parts Set x1\n\n‘NOT APPROVED FOR CIVILIAN USE’\n‘WARNING – DO NOT OBSERVE CONTENTS’\n‘WARNING – VOLATILE SUBSTANCE’\n‘WARNING – RADIOACTIVE SUBSTANCE’",
+
+        "QT_EQUIP_NULLIFIER_NAME": "Nullifier",
+        "QT_EQUIP_NULLIFIER_PICKUP": "Corrupt an item into its <style=cIsVoid>void equivalent</style>.",
+        "QT_EQUIP_NULLIFIER_DESC": "Aim at an item with a <style=cIsVoid>void equivalent</style> and activate to <style=cIsVoid>corrupt</style> it into its void version.",
+        "QT_EQUIP_NULLIFIER_LORE": "None of us were ready for what we saw during the Recovery Program. \n\nSome took a curiosity towards it. The abyss consumed their minds, and then their bodies. \n\nOthers tried to keep their company safe from it. They were torn apart by currents far stronger than their resolve. \n\nThen, there was one other. The Void spoke to her, and she was the first to understand. She is somewhere beyond us now, reading this along with you.",
+
+        "QT_EQUIP_MICROWAVE_NAME": "Quantum Microwave",
+        "QT_EQUIP_MICROWAVE_PICKUP": "Electrocute nearby enemies to restore shields.",
+        "QT_EQUIP_MICROWAVE_DESC": "Send {0} sets of <style=cIsDamage>electrical shocks</style> for <style=cIsDamage>{1}x{2}%</style> damage to random enemies within <style=cIsDamage>{3}m</style>, <style=cIsHealing>regenerating {4} shield</style> for each enemy zapped. <style=cIsUtility>Grants {5}% bonus movement speed while active.</style>",
+        "QT_EQUIP_MICROWAVE_LORE": "There’s just no more villainous whimsy anymore! \n\nI’m told countless things about my work-- to ‘grow up’. That I’m being immature for trying to put the fun back into evil schemes. That my motivations aren’t ‘politically relevant’ and that they’re ‘not helping anyone’. Fools- are you forgetting what being EVIL truly means? I need no justification at all! It’s times like this I believe I’m the last real supervillain out there. \n\nTo all you so-serious, sanitized rabble-rousers: You are welcome to continue your banal pursuits of power. When you receive what you’re after, it will not mean anything. It will never be enough. Meanwhile, I will savor the process of invention to its fullest. The value of a doomsday weapon is not in the end of the world, but the fulfilment of curiosity, the joy of creation, and the rush of eluding the watchful eyes of heroes, detectives and do-gooders! \n\nSpeaking of which, my newest device is ready to test, and I’ve found an excellent place to do it. Where, you ask? Let’s just say that a certain little neighborhood somewhere in the tri-state area might be seeing a bit of bad weather-- expect thunder and lightning! \n\nYou have 48 hours until the device detonates. In the meantime, I’ll be taking a vacation somewhere with a bit of sun. \n\n- Doctor Gizzmatic \n\n<style=cStack>[To be used as evidence in the public court case of Florida v. Gizzmatic]</style>",
+    }
+}
