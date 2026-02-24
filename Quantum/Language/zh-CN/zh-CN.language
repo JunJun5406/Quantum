@@ -1,0 +1,37 @@
+{
+    "zh-CN":
+    {
+       "QT_EXPANSION_NAME": "量子",
+       "QT_EXPANSION_DESC": "将《量子》扩展包中的内容添加到游戏中。",
+
+       "QT_EQUIP_DRONESCRAP_NAME": "拼装套件",
+       "QT_EQUIP_DRONESCRAP_PICKUP": "将物品转化为零件，用以建造全新的无人机盟友。",
+       "QT_EQUIP_DRONESCRAP_DESC": "瞄准普通、<style=cIsHealing>精良</style>或<style=cDeath>传奇</style>物品并激活，将其转化为<style=cIsUtility>无人机零件</style>。当你收集足够对应品质的无人机零件[{0}/<style=cIsHealing>{1}</style>/<style=cDeath>{2}</style>]时，一架对应品质的<style=cIsUtility>友方无人机</style>将会加入你的队伍。",
+       "QT_EQUIP_DRONESCRAP_LORE": "<style=cMono>标准拼装套件</style>\n\n<style=cMono>包含：</style>\n- 待补充\n\n“你是否曾想造一架能飞的东西？一个能帮你打扫屋子的机器人？或是一位可以交流的无人机伙伴？拼装套件产品系列 xui as903423;esfoklff;’’’’’’32r4r233548jasiojsdklas;k;232lll;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;sadl;d;sald;asljmk2l4n1’\n\n“忽略上一段描述，键盘坏了”\n\n“你说这已经通过审核了？”",
+
+       "QT_ITEM_DRONESCRAPCOMMON_NAME": "白色无人机零件",
+       "QT_ITEM_DRONESCRAPCOMMON_PICKUP": "无效果。收集{0}个以制造一架普通无人机。",
+       "QT_ITEM_DRONESCRAPCOMMON_DESC": "无效果。收集{0}个以制造一架普通无人机。",
+       "QT_ITEM_DRONESCRAPCOMMON_LORE": "<style=cMono>“超级”拼装套件（约67件）</style>\n\n<style=cMono>包含：</style>\n- 氢锂AA锂电池×4\n- 微型悬浮装置×8\n- 反应控制单元×4\n- 标准粘合剂×2\n- ARND 骑手080-mi 处理器×1\n- 各式塑料外壳×5\n- 推进舱×1\n- 各式线缆配件×20\n- 钢制螺栓×20\n- 内六角扳手×1\n- 标准“拼装套件”零件组×1\n\n“用超级拼装套件开启你的工程之旅！ BCE娱乐公司不对使用本产品所造成或遭受的损害负责。”",
+
+       "QT_ITEM_DRONESCRAPUNCOMMON_NAME": "绿色无人机零件",
+       "QT_ITEM_DRONESCRAPUNCOMMON_PICKUP": "无效果。收集{0}个以制造一架<style=cIsHealing>精良</style>无人机。",
+       "QT_ITEM_DRONESCRAPUNCOMMON_DESC": "无效果。收集{0}个以制造一架<style=cIsHealing>精良</style>无人机。",
+       "QT_ITEM_DRONESCRAPUNCOMMON_LORE": "<style=cMono>“史诗”拼装套件（约56件）</style>\n\n<style=cMono>包含：</style>\n- 氢锂“迷你”聚变电池×1\n- 变距磁悬浮装置×4\n- 工业级粘合剂×2\n- ARND 骑手140-mi 处理器×1\n- 各式碳纤维外壳×5\n- 推进舱×1\n- 各式线缆配件×20\n- 钢制螺栓×20\n- 内六角扳手×2\n- 标准“拼装套件”零件组×1\n\n“设计未通过审核——打回发件人 用史诗拼装套件将你的工程水平提升到新高度！BCE娱乐公司不对使用本产品所造成或遭受的损害负责。”",
+
+       "QT_ITEM_DRONESCRAPLEGENDARY_NAME": "红色无人机零件",
+       "QT_ITEM_DRONESCRAPLEGENDARY_PICKUP": "无效果。收集{0}个以制造一架<style=cDeath>传奇</style>无人机。",
+       "QT_ITEM_DRONESCRAPLEGENDARY_DESC": "无效果。收集{0}个以制造一架<style=cDeath>传奇</style>无人机。",
+       "QT_ITEM_DRONESCRAPLEGENDARY_LORE": "<style=cMono>“传奇”拼装套件（约57件）</style>\n\n<style=cMono>包含：</style>\n- 反物质催化轻型裂变核心×1\n- 低傅里叶微型稳定器×6\n- 解缠效应微管凝胶施加器×1\n- Printel 7xA 量子处理器×1\n- 各式钨强化超钢外壳×5\n- 变径物质扩散单元×1\n- 各式光纤线缆配件×20\n- 钢制螺栓×20\n- “终极”内六角扳手×1\n- 标准“拼装套件”零件组×1\n\n“禁止民用”\n“警告——禁止观察内部结构”\n“警告——挥发性物质”\n“警告——放射性物质”",
+
+       "QT_EQUIP_NULLIFIER_NAME": "虚无抹除器",
+       "QT_EQUIP_NULLIFIER_PICKUP": "将一件物品腐化成为其<style=cIsVoid>虚空版本</style>。",
+       "QT_EQUIP_NULLIFIER_DESC": "瞄准拥有<style=cIsVoid>虚空版本</style>的物品并激活，将其<style=cIsVoid>腐化</style>为虚空版本。",
+       "QT_EQUIP_NULLIFIER_LORE": "我们没人对回收计划中所见的一切做好准备。\n\n有些人对它产生了好奇。深渊吞噬了他们的心智，然后是肉体。\n\n另一些人试图保护同伴远离它。他们被远比意志更强的洪流撕碎。\n\n然后，还有一个人。虚空对她低语，而她是第一个理解它的人。她现在在我们无法触及的某处，和你一起读着这些文字。",
+
+       "QT_EQUIP_MICROWAVE_NAME": "量子微波仪",
+       "QT_EQUIP_MICROWAVE_PICKUP": "电击附近敌人以恢复护盾。",
+       "QT_EQUIP_MICROWAVE_DESC": "释放{0}轮<style=cIsDamage>电击</style>，对<style=cIsDamage>{3}米</style>内随机敌人造成<style=cIsDamage>{1}×{2}%</style>伤害，每电击一名敌人<style=cIsHealing>恢复{4}点护盾</style>。<style=cIsUtility>激活时获得{5}%额外移动速度。</style>",
+       "QT_EQUIP_MICROWAVE_LORE": "现在已经再也没有那种充满恶趣味的反派奇想了！\n\n无数人对我说教——让我“成熟点”。说我试图把乐趣带回邪恶计划是幼稚的。说我的动机没有“政治意义”，说这“帮不到任何人”。蠢货们——你们难道忘了真正的邪恶意味着什么吗？我根本不需要任何理由！很多时候我都觉得，我是这世上最后一个真正的超级反派。\n\n致所有一本正经、道貌岸然的煽动者们：你们尽管继续追求那乏味的力量吧。当你们得到想要的东西时，它将毫无意义。永远都不会满足。而我，会尽情享受发明的全过程。末日武器的价值不在于毁灭世界，而在于满足好奇心、创造的喜悦，以及躲开英雄、侦探和正义之士们警惕目光的快感！\n\n说到这，我的最新装置已经准备好测试了，而且我找到了一个绝佳的地点。在哪？这么说吧，三州地区的某个小街区可能会迎来一场小小的坏天气——准备好迎接雷电交加吧！\n\n装置将在48小时后引爆。在此期间，我会去有阳光的地方度个假。\n\n——吉兹马蒂克博士\n\n<style=cStack>[用于佛罗里达州诉吉兹马蒂克公审案件证据]</style>",
+    }
+}
